@@ -1,0 +1,17 @@
+body{
+    width: 80%;
+    border: 2px solid black;
+
+}
+
+header{
+    background-color: antiquewhite;
+}
+
+.H{
+    background-color: aqua;
+}
+
+.A{
+    background-color: brown;
+}
